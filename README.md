@@ -27,5 +27,5 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rafiimalfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knmukaffa" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rafiimalfa" target="www.linkedin.com/in/rafiimalfa"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiimalfa" height="30" width="40" /></a>
 </p>
